@@ -11,7 +11,7 @@
   justify-content: space-around;
 }
 
-img {
+ img {
   width: 162px;
   transition: 2s width;
 }

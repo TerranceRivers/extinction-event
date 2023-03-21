@@ -1,6 +1,7 @@
 # Extinction Event
 
-We'll start with an uninteractive website and end up at this highly interactive (if not revolutionary) [web app](https://ci-wdi-900.github.io/extinction-event/).
+We'll start with an uninteractive website and end up at this highly interactive (if not revolutionary) [web app](https://
+ci-wdi-900.github.io/extinction-event/).
 
 In between, we'll be adding a fair amount of JavaScript to make that happen!
 
